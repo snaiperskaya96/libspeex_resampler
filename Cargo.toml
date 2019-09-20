@@ -1,0 +1,8 @@
+[package]
+name = "libspeex_resampler"
+version = "0.1.0"
+authors = ["Jury Verrigni <jury.verrigni@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+libc = "0.2"
